@@ -1,1 +1,86 @@
+/* Borda font family (Files expected in: ./Source/) */
+
+@font-face {
+    font-family: 'Borda';
+    font-style: normal;
+    font-weight: 300;
+    src: url('./Source/Borda%20Light.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Borda';
+    font-style: italic;
+    font-weight: 300;
+    src: url('./Source/Borda%20Light%20Italic.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Borda';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./Source/Borda.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Borda';
+    font-style: italic;
+    font-weight: 400;
+    src: url('./Source/Borda%20Italic.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Borda';
+    font-style: normal;
+    font-weight: 500;
+    src: url('./Source/Borda%20Medium.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Borda';
+    font-style: italic;
+    font-weight: 500;
+    src: url('./Source/Borda%20Medium%20Italic.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Borda';
+    font-style: normal;
+    font-weight: 600;
+    src: url('./Source/Borda%20DemiBold.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Borda';
+    font-style: italic;
+    font-weight: 600;
+    src: url('./Source/Borda%20DemiBold%20Italic.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Borda';
+    font-style: normal;
+    font-weight: 700;
+    src: url('./Source/Borda%20Bold.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Borda';
+    font-style: italic;
+    font-weight: 700;
+    src: url('./Source/Borda%20Bold%20Italic.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Borda';
+    font-style: normal;
+    font-weight: 800;
+    src: url('./Source/Borda%20ExtraBold.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Borda';
+    font-style: italic;
+    font-weight: 800;
+    src: url('./Source/Borda%20ExtraBold%20Italic.woff') format('woff');
+}
 
